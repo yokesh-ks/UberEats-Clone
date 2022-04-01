@@ -14,7 +14,9 @@
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "react": "17.0.2",
-    "react-native": "0.68.0"
+    "react-native": "0.68.0",
+    "react-native-google-places-autocomplete": "^2.4.1",
+    "react-native-svg": "^12.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
